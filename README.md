@@ -12,3 +12,9 @@ Mortality data used in this analysis is restricted use and cannot be shared publ
   
 - *INLA_Space_Time_Example.R* contains code to replicate the space-time smoothing analysis estimating annual county-level firearm suicide mortality rates.
 
+--------------
+
+If you use code from this repository, please cite the following publication:
+
+Gause EL, Schumacher AE, Ellyson AM, Withers SD, Mayer JD, Rowhani-Rahbar A. An Introduction to Bayesian Spatial Smoothing Methods for Disease Mapping: Modeling County Firearm Suicide Mortality Rates. Am J Epidemiol. 2024. doi: 10.1093/aje/kwae005
+
