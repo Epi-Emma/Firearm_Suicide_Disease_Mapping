@@ -16,5 +16,5 @@ Mortality data used in this analysis is restricted use and cannot be shared publ
 
 If you use code from this repository, please cite the following publication:
 
-Gause EL, Schumacher AE, Ellyson AM, Withers SD, Mayer JD, Rowhani-Rahbar A. An Introduction to Bayesian Spatial Smoothing Methods for Disease Mapping: Modeling County Firearm Suicide Mortality Rates. Am J Epidemiol. 2024. doi: 10.1093/aje/kwae005
+Gause EL, Schumacher AE, Ellyson AM, Withers SD, Mayer JD, Rowhani-Rahbar A. An Introduction to Bayesian Spatial Smoothing Methods for Disease Mapping: Modeling County Firearm Suicide Mortality Rates. Am J Epidemiol. 2024. doi: [10.1093/aje/kwae005](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae005/7610989?utm_source=advanceaccess&utm_campaign=aje&utm_medium=email)
 
